@@ -1,6 +1,6 @@
 # Steganography Project
 
-This project implements stenography for hiding text within images.
+This project implements steganography for hiding text within images.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,7 +11,7 @@ This project implements stenography for hiding text within images.
 - [License](#license)
 
 ## Introduction
-Stenography is the practice of concealing messages or information within other non-secret text or data. This project provides a way to hide text within images and retrieve it when needed.
+Steganography is the practice of concealing messages or information within other non-secret text or data. This project provides a way to hide text within images and retrieve it when needed.
 
 ## Installation
 To get started, clone the repository and install the required dependencies.
