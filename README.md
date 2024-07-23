@@ -1,4 +1,4 @@
-# Stenography Project
+# Steganography Project
 
 This project implements stenography for hiding text within images.
 
